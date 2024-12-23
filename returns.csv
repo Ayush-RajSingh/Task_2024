@@ -1,0 +1,151 @@
+ReturnID,SaleID,ReturnDate,Reason
+1,791,02-10-2023,Defective
+2,460,20-10-2023,Wrong Item
+3,466,17-02-2023,Defective
+4,484,06-01-2023,Wrong Item
+5,501,10-03-2023,Wrong Item
+6,620,30-12-2023,Wrong Item
+7,504,09-09-2023,Changed Mind
+8,64,28-09-2023,Wrong Item
+9,339,28-07-2023,Defective
+10,520,31-03-2023,Changed Mind
+11,483,04-08-2023,Defective
+12,450,22-05-2023,Changed Mind
+13,855,29-06-2023,Changed Mind
+14,127,10-12-2023,Changed Mind
+15,401,14-09-2023,Changed Mind
+16,121,27-12-2023,Wrong Item
+17,192,13-04-2023,Defective
+18,714,29-08-2023,Wrong Item
+19,134,09-10-2023,Changed Mind
+20,223,20-11-2023,Changed Mind
+21,643,01-01-2024,Wrong Item
+22,998,02-08-2023,Changed Mind
+23,388,08-08-2023,Wrong Item
+24,905,07-01-2023,Wrong Item
+25,667,23-05-2023,Changed Mind
+26,62,31-01-2023,Wrong Item
+27,357,19-09-2023,Defective
+28,533,16-02-2023,Defective
+29,542,29-07-2023,Changed Mind
+30,44,29-07-2023,Wrong Item
+31,572,30-03-2023,Wrong Item
+32,582,22-01-2023,Changed Mind
+33,347,22-01-2023,Changed Mind
+34,644,17-04-2023,Changed Mind
+35,260,20-12-2023,Defective
+36,827,25-04-2023,Changed Mind
+37,842,09-08-2023,Wrong Item
+38,644,17-07-2023,Defective
+39,888,11-04-2023,Changed Mind
+40,186,15-07-2023,Changed Mind
+41,328,24-07-2023,Changed Mind
+42,833,19-11-2023,Wrong Item
+43,324,28-11-2023,Wrong Item
+44,190,07-07-2023,Wrong Item
+45,476,07-09-2023,Changed Mind
+46,890,27-04-2023,Changed Mind
+47,398,04-04-2023,Defective
+48,437,07-02-2023,Defective
+49,21,23-08-2023,Changed Mind
+50,549,29-03-2023,Defective
+51,967,30-11-2023,Defective
+52,872,12-09-2023,Changed Mind
+53,680,11-07-2023,Defective
+54,604,29-12-2023,Wrong Item
+55,124,28-12-2023,Wrong Item
+56,175,01-01-2023,Defective
+57,379,29-08-2023,Wrong Item
+58,632,02-02-2023,Defective
+59,949,03-09-2023,Wrong Item
+60,94,24-07-2023,Changed Mind
+61,59,06-12-2023,Changed Mind
+62,732,08-04-2023,Changed Mind
+63,157,23-09-2023,Defective
+64,684,26-01-2023,Defective
+65,749,20-07-2023,Defective
+66,361,04-05-2023,Defective
+67,356,06-08-2023,Wrong Item
+68,258,31-07-2023,Changed Mind
+69,58,16-12-2023,Changed Mind
+70,926,30-04-2023,Defective
+71,176,02-09-2023,Defective
+72,919,09-11-2023,Wrong Item
+73,666,28-09-2023,Defective
+74,558,27-01-2023,Defective
+75,865,14-07-2023,Defective
+76,245,06-11-2023,Defective
+77,482,17-09-2023,Defective
+78,371,18-02-2023,Changed Mind
+79,337,29-01-2023,Changed Mind
+80,541,02-09-2023,Changed Mind
+81,222,02-10-2023,Defective
+82,88,09-02-2023,Defective
+83,544,19-07-2023,Defective
+84,510,04-03-2023,Wrong Item
+85,202,23-11-2023,Changed Mind
+86,112,07-08-2023,Defective
+87,247,30-03-2023,Defective
+88,913,19-06-2023,Changed Mind
+89,47,24-12-2023,Defective
+90,949,11-05-2023,Wrong Item
+91,186,23-07-2023,Wrong Item
+92,95,19-09-2023,Defective
+93,95,22-11-2023,Wrong Item
+94,658,13-02-2023,Defective
+95,845,07-01-2023,Defective
+96,686,28-02-2023,Changed Mind
+97,30,21-06-2023,Changed Mind
+98,86,06-01-2023,Wrong Item
+99,278,09-05-2023,Wrong Item
+100,532,11-12-2023,Changed Mind
+101,903,11-07-2023,Defective
+102,63,24-09-2023,Changed Mind
+103,192,12-04-2023,Defective
+104,665,13-03-2023,Wrong Item
+105,43,22-01-2023,Defective
+106,660,13-11-2023,Wrong Item
+107,643,27-10-2023,Defective
+108,68,12-07-2023,Defective
+109,503,18-11-2023,Changed Mind
+110,239,22-03-2023,Wrong Item
+111,195,29-03-2023,Wrong Item
+112,202,26-07-2023,Changed Mind
+113,186,13-10-2023,Wrong Item
+114,187,02-02-2023,Wrong Item
+115,750,28-04-2023,Defective
+116,438,09-04-2023,Changed Mind
+117,72,06-10-2023,Changed Mind
+118,808,16-11-2023,Wrong Item
+119,290,24-08-2023,Wrong Item
+120,337,08-03-2023,Defective
+121,315,21-03-2023,Wrong Item
+122,810,04-05-2023,Defective
+123,125,04-10-2023,Defective
+124,354,29-11-2023,Changed Mind
+125,741,17-11-2023,Wrong Item
+126,401,27-12-2023,Defective
+127,412,25-08-2023,Defective
+128,891,18-12-2023,Defective
+129,501,28-11-2023,Wrong Item
+130,425,02-06-2023,Changed Mind
+131,800,09-08-2023,Changed Mind
+132,215,04-02-2023,Changed Mind
+133,104,30-09-2023,Wrong Item
+134,750,23-07-2023,Wrong Item
+135,258,21-12-2023,Wrong Item
+136,252,17-06-2023,Changed Mind
+137,446,25-01-2023,Wrong Item
+138,75,15-03-2023,Wrong Item
+139,567,22-04-2023,Changed Mind
+140,6,18-10-2023,Wrong Item
+141,709,19-07-2023,Wrong Item
+142,499,20-11-2023,Defective
+143,597,21-06-2023,Defective
+144,8,19-01-2023,Changed Mind
+145,123,02-04-2023,Defective
+146,318,02-02-2023,Wrong Item
+147,823,19-04-2023,Wrong Item
+148,459,14-12-2023,Changed Mind
+149,692,14-08-2023,Changed Mind
+150,242,22-09-2023,Defective
